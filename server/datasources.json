@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgresqlDS": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "demo",
+    "password": "admin",
+    "name": "postgresqlDS",
+    "user": "admin",
+    "connector": "postgresql"
+  }
+}
